@@ -34,5 +34,23 @@
         "versionId": 1
       }
     ]
+  },
+  {
+    "name": "Aniyomi: Rule34.xxx",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.rule34xxx",
+    "apk": "aniyomi-en.rule34xxx-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Rule34.xxx",
+        "lang": "en",
+        "id": "6517551266759445679",
+        "baseUrl": "https://rule34.xxx",
+        "versionId": 1
+      }
+    ]
   }
 ]
